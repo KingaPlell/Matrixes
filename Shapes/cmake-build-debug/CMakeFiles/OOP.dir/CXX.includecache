@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Kinga/OOP/Shape.cpp
+Shape.h
+D:/Kinga/OOP/Shape.h
+math.h
+D:/Kinga/OOP/math.h
+
+D:/Kinga/OOP/Shape.h
+
+D:/Kinga/OOP/main.cpp
+iostream
+-
+Shape.h
+D:/Kinga/OOP/Shape.h
+
